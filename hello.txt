@@ -1,5 +1,6 @@
 hello atgigu! hello git!22222
 hello atgigu! hello git!33333
 hello atgigu! hello git!
+<<<<<<< HEAD
 hello atgigu! hello git! master test
-hello atgigu! hello git!
+hello atgigu! hello git! hot-fix test
