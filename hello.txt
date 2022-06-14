@@ -4,3 +4,4 @@ hello atgigu! hello git!
 <<<<<<< HEAD
 hello atgigu! hello git! master test
 hello atgigu! hello git! hot-fix test
+cloverMaster have visited this place
