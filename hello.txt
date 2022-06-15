@@ -6,3 +6,4 @@ hello atgigu! hello git! hot-fix test
 
 cloverMaster have visited this place
 coldClover have modified this text file.
+GitHub project have been updated.
